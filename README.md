@@ -1,1 +1,2 @@
-# Digital_Image_Processing_course
+# Cheatsheet for Digital Image Processing course
+## Language: cn
